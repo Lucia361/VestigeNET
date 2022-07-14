@@ -25,8 +25,9 @@
 
 - Rules
 {
-• No Skidding
+• Dont Skid it or Paste it in your Obfusactor
 • Atleast give Credits to Snow aka sn-0w
+• Give a Star if you like it :)
 }
 ```
 
