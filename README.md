@@ -29,3 +29,7 @@
 • Atleast give Credits to Snow aka sn-0w
 }
 ```
+
+## Preview
+
+![s](https://i.imgur.com/TJvrmUC.png)
