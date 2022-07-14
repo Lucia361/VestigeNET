@@ -1,0 +1,11 @@
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\bin\Debug\VestigeNET.exe.config
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\bin\Debug\VestigeNET.exe
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\bin\Debug\VestigeNET.pdb
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\bin\Debug\dnlib.dll
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\bin\Debug\dnlib.xml
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\obj\Debug\VestigeNET.csproj.AssemblyReference.cache
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\obj\Debug\VestigeNET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\obj\Debug\VestigeNET.csproj.CoreCompileInputs.cache
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\obj\Debug\VestigeNET.csproj.CopyComplete
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\obj\Debug\VestigeNET.exe
+C:\Users\Vestige\Desktop\VestigeNET v2\SugarGuard\obj\Debug\VestigeNET.pdb
